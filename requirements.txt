@@ -3,3 +3,4 @@ ipywidgets
 nbinteract
 altair
 vega_datasets
+bqplot
